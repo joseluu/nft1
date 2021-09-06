@@ -3,12 +3,16 @@
     {
       "id": 1,
       "title": "hello"
+    },
+    {
+	    "id": 2,
+	    "title": "world"
     }
   ],
   "profile": {
     "name": "typicode"
   },
-  "tokens" :[
+  "tokens": [
 	  {
 		  "id":1,
 		  "name":"image1",
