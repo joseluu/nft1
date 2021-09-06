@@ -32,6 +32,7 @@
 		  "description": "JoseNFT",
 		  "image": "https://raw.githubusercontent.com/joseluu/nft1/master/2_instruments.png",
 		  "name": "JoseNFT2"
+	  },
 	  {
            "title": "Asset Metadata",
            "type": "object",
