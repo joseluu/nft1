@@ -10,6 +10,7 @@
   },
   "tokens" :[
 	  {
+		  "id":1,
 		  "name":"image1",
 		  "type":"image",
 		  "image":"URI"
