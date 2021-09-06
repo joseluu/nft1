@@ -15,6 +15,7 @@
   "tokens": [
 	  {
 		  "id":0,
+		  "description":"JoseNFT",
 		  "name":"image1",
 		  "type":"image",
 		  "image":"https://raw.githubusercontent.com/joseluu/nft1/master/2021.PNG"
