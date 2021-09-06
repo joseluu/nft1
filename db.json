@@ -17,7 +17,7 @@
 		  "id":1,
 		  "name":"image1",
 		  "type":"image",
-		  "image":"URI"
+		  "image":"https://raw.githubusercontent.com/joseluu/nft1/master/2021.PNG"
 	  },
 	  {
            "title": "Asset Metadata",
