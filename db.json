@@ -19,8 +19,16 @@
 		  "name":"image1",
 		  "type":"image",
 		  "image":"https://twemoji.maxcdn.com/svg/1f40e.svg",
-		  "image_old":"https://raw.githubusercontent.com/joseluu/nft1/master/2021.PNG"
+		  "image_old":"https://raw.githubusercontent.com/joseluu/nft1/master/2021.PNG",
+		  "name": "JoseNFT0"
 	  },
+	  {
+          "id": 1,
+          "description": "My NFT",
+          "external_url": "https://forum.openzeppelin.com/t/create-an-nft-and-deploy-to-a-public-testnet-using-truffle/2961",
+          "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+          "name": "My NFT 0"
+          },
 	  {
            "title": "Asset Metadata",
            "type": "object",
